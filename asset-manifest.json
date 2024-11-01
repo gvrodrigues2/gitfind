@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gvrodrigues2/gitfind/static/css/main.14ad22e4.css",
+    "main.js": "/gvrodrigues2/gitfind/static/js/main.7f2f4c47.js",
+    "index.html": "/gvrodrigues2/gitfind/index.html",
+    "main.14ad22e4.css.map": "/gvrodrigues2/gitfind/static/css/main.14ad22e4.css.map",
+    "main.7f2f4c47.js.map": "/gvrodrigues2/gitfind/static/js/main.7f2f4c47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ad22e4.css",
+    "static/js/main.7f2f4c47.js"
+  ]
+}
